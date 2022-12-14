@@ -1,0 +1,5 @@
+fastapi
+nest-asyncio 
+pyngrok
+uvicorn
+librosa
