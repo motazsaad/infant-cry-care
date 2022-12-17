@@ -1,0 +1,401 @@
+wav_file,label,prediction
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063013030_noise1.wav,asphyxia,asphyxia
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052318000.wav,normal,normal
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052160000.wav,normal,normal
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh41_pitch1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0049002002_speed1.wav,pain,pain
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh37_speed1.wav,burp up,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0053022000.wav,normal,normal
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/c7fef089-4a65-4b75-bfd4-bae0e3518adf-1430754388848-1.7-m-04-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh41_shift1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/F4A0C710-AC2D-42E0-8EA9-3E4CAC31EE20-1430318390-1_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065039030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh35.wav,burp up,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh102_shift1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052313000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0074012002_shift1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052035000.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh50_speed1.wav,burp up,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/Eairh21.wav,lower gas,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0009002002_noise1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0072006002_pitch1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064035030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0002001002.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068036030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh4_speed1.wav,burp up,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh59.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/3030d0e9-0c9b-4616-9b83-f10dc2dedbfd-1430053447333-1.7-m-26-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0041015001_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0046003001.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068027030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068053030_pitch1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/1f40790f-68f2-4e7e-845e-715bd97c82d0-1429979568422-1_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/cda99fcf-d010-47b4-8987-f54be313ddbd-1429973787766-1.7-f-26-hu.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah14_pitch1.wav,Sleepy,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/Eairh26_speed1.wav,lower gas,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0083007001.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063033030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0037006001_noise1.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/9_pitch1.wav,lower gas,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0074022002_pitch1.wav,pain,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah26_shift1.wav,Sleepy,pain
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/af30880e-5f98-4dc0-b37a-be6b21fa0ba3-1431240072536-1.7-m-26-bu.wav,burp up,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0008005002_speed1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0053026000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah22_noise1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/d6cda191-4962-4308-9a36-46d5648a95ed-1431587899682-1_noise1.wav,Sleepy,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/539FDD32-6326-422E-A707-FCF063D3426C-1437073544-1.1-f-26-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/15_pitch1.wav,burp up,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065050030_speed1.wav,asphyxia,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052308000_noise1.wav,normal,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh15.wav,Uncomfortable,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh71_shift1.wav,Sleepy,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064047030_pitch1.wav,asphyxia,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0083009001.wav,Hungry,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063048030.wav,asphyxia,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0050005002_speed1.wav,pain,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067045030_pitch1.wav,asphyxia,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066029030_shift1.wav,asphyxia,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052141000_noise1.wav,normal,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052002000.wav,normal,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/d6cda191-4962-4308-9a36-46d5648a95ed-1431616581736-1.7-m-04-ti.wav,Sleepy,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh53.wav,Hungry,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0074010002_speed1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh51_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh34_speed1.wav,Uncomfortable,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0070007000.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0024003002.wav,pain,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/5_pitch1.wav,Uncomfortable,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064028030_pitch1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0074011002_speed1.wav,pain,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/15_noise1.wav,Sleepy,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0014003002_speed1.wav,pain,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0073002002_speed1.wav,pain,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066027030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/b3_noise1.wav,burp up,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067051030_speed1.wav,asphyxia,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/18.wav,Hungry,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah15_speed1.wav,Sleepy,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064055030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067008030_pitch1.wav,asphyxia,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh55.wav,Sleepy,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0053054000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah31_speed1.wav,Sleepy,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052080000_noise1.wav,normal,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0046006001_noise1.wav,Hungry,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052358000_noise1.wav,normal,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh3_speed1.wav,burp up,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063043030_shift1.wav,asphyxia,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/1309B82C-F146-46F0-A723-45345AFA6EA8-1430059864-1_shift1.wav,Sleepy,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052228000.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068048030.wav,asphyxia,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064017030_shift1.wav,asphyxia,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah6.wav,Sleepy,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0012005001_noise1.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0049002002_shift1.wav,pain,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052326000.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0053075000.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/79FF400A-97E2-4701-987D-C7C850D5523C-1430089487-1.0-f-48-ti.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/719bb382-a592-46b7-82d2-8b4a625263b7-1430376501744-1.7-m-48-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh19_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/Eairh1_noise1.wav,lower gas,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052270000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0049001002_speed1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066006030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0074030002_pitch1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052219000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0002003002_noise1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065010030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/fa8620d3-e7db-4101-aff0-28dbf0d96a5f-1434296505682-1_noise1.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/14_speed1.wav,Sleepy,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0014002002_pitch1.wav,pain,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065006030_shift1.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063037030_shift1.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0051006001_noise1.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068029030.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0076006001_noise1.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/D4665929-8695-4655-927F-63F09B2D4CB8-1430726940-1_speed1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068018030_pitch1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063025030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/8c2a1f03-07f4-4aee-a73f-bc57beb2b600-1430761324670-1_noise1.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064027030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052222000.wav,normal,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh54_speed1.wav,burp up,lower gas
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063037030.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066010030_pitch1.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067038030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/10_noise1.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0050003002_shift1.wav,pain,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068030030.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0013008002_noise1.wav,pain,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh46_noise1.wav,Sleepy,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0044004001.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh37_pitch1.wav,burp up,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh4_noise1.wav,Uncomfortable,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0071017000.wav,normal,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/6 (2).wav,lower gas,lower gas
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh51_pitch1.wav,Uncomfortable,lower gas
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/Eairh23_speed1.wav,lower gas,lower gas
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063028030_pitch1.wav,asphyxia,lower gas
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/cecd525b-18fd-49e3-b2b9-dfb08b93ad95-1430110029205-1.7-m-26-ti.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh6_shift1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh29.wav,burp up,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066026030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063011030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065028030_pitch1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/7E4B9C14-F955-4BED-9B03-7F3096A6CBFF-1430232166-1_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052298000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh40_noise1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh79.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/7b0e160e-0505-459e-8ecb-304d7afae9d2-1437486941311-1.7-m-04-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063022030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/1309B82C-F146-46F0-A723-45345AFA6EA8-1430703937-1_noise1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0036008001_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052234000.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh1_noise1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064023030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh6_speed1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/999bf14b-e417-4b44-b746-9253f81efe38-1430844940177-1_noise1.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/2a0e6a88-b049-4f46-a3d6-d73ffae470d5-1430770161530-1_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh30_speed1.wav,burp up,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/8FDA58A7-FDC6-4421-855F-738E6E853E43-1429895751-1.0-m-26-hu.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/edb5924c-07ba-4eaa-838b-aaf9511a219b-1431894189631-1.7-m-48-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah9_shift1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh99_speed1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063018030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0050008002_shift1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052330000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066014030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052088000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0050010002_speed1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066012030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/719bb382-a592-46b7-82d2-8b4a625263b7-1430376267895-1_noise1.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh63_pitch1.wav,Sleepy,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0074026002_speed1.wav,pain,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052107000_noise1.wav,normal,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah14_noise1.wav,Sleepy,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066017030_speed1.wav,asphyxia,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/7b0e160e-0505-459e-8ecb-304d7afae9d2-1437486974312-1_noise1.wav,Uncomfortable,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066050030_shift1.wav,asphyxia,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064027030_shift1.wav,asphyxia,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0007003002_shift1.wav,pain,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052194000_noise1.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0020001002_shift1.wav,pain,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067015030_speed1.wav,asphyxia,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/22.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0072001002_speed1.wav,pain,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/Eairh17_shift1.wav,lower gas,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh15_noise1.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh34_noise1.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0014001002_shift1.wav,pain,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh10_shift1.wav,Sleepy,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052100000_noise1.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/3030d0e9-0c9b-4616-9b83-f10dc2dedbfd-1430053594259-1.7-m-26-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0088004001_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/11_pitch1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh48_pitch1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063018030_pitch1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067044030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh9_pitch1.wav,burp up,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064048030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/e0717ce2-da25-417c-89a5-58d7175f4a6d-1436966513203-1.7-m-26-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0021002001.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah26_speed1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh51_shift1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh38_speed1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0053052000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064018030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0053051000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0074034002.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh5.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/9CFD61B9-BF13-406D-8B2F-F73CFAAF25CB-1430927716-1_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068041030_pitch1.wav,asphyxia,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067040030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/b4.wav,burp up,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/be21ef2a-a415-4e8b-bfe6-731bf9956e2c-1431320909516-1_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064026030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/7b0e160e-0505-459e-8ecb-304d7afae9d2-1437486974312-1_speed1.wav,Uncomfortable,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah15_shift1.wav,Sleepy,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0075007001.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh55_shift1.wav,burp up,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0007004002_speed1.wav,pain,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0049003002_noise1.wav,pain,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068013030_pitch1.wav,asphyxia,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/12_pitch1.wav,burp up,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh79_pitch1.wav,Sleepy,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh23_noise1.wav,burp up,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0015003002_noise1.wav,pain,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0074029002_speed1.wav,pain,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/7_noise1.wav,Uncomfortable,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052105000_noise1.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/415d69b4-6d84-4bf8-97b0-10f8f108dc1d-1430739498797-1_noise1.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh7_noise1.wav,Uncomfortable,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh51_noise1.wav,burp up,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/24f2a4e1-7161-42a3-a2a2-a29a2422c0b8-1430814741368-1_noise1.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh38_noise1.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064012030_shift1.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/11_pitch1.wav,lower gas,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/999bf14b-e417-4b44-b746-9253f81efe38-1430974001343-1_shift1.wav,lower gas,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh46_noise1.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah26_noise1.wav,Sleepy,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0083019001.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/9_speed1.wav,burp up,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0044008001_noise1.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh45.wav,Uncomfortable,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063022030.wav,asphyxia,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/8FDA58A7-FDC6-4421-855F-738E6E853E43-1429895742-1_noise1.wav,Hungry,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067031030_pitch1.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066042030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/4_shift1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0081006001.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052021000.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/52dfc27a-fbc4-4d9f-bbcf-6406c919324a-1430041657947-1.7-m-26-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0006003002_shift1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh40_pitch1.wav,burp up,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh25.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0776b33b-c41a-4a2e-8b9c-f1c184be00c8-1437123838264-1.7-f-26-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0004001001.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052300000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0032001002_pitch1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh77_pitch1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063031030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0079002001_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/ae5a462b-5424-4b5b-82d5-07ccb61654ab-1431064345173-1_pitch1.wav,Uncomfortable,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052271000_noise1.wav,normal,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0032006002_speed1.wav,pain,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0074003002_speed1.wav,pain,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/Eairh36_pitch1.wav,lower gas,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066052030.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0050005002_pitch1.wav,pain,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063018030_speed1.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0013003002_speed1.wav,pain,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh105_speed1.wav,Sleepy,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065039030.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/f258a8e2-92cd-4843-9da4-80ed26ec8e10-1436944996156-1_noise1.wav,Uncomfortable,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0042006001.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh45_shift1.wav,Uncomfortable,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065034030_noise1.wav,asphyxia,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/ae5a462b-5424-4b5b-82d5-07ccb61654ab-1431064345173-1.7-f-48-dc.wav,Uncomfortable,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah1_speed1.wav,Sleepy,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063011030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052359000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/af30880e-5f98-4dc0-b37a-be6b21fa0ba3-1431240072536-1_speed1.wav,burp up,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/8_shift1.wav,lower gas,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh13.wav,Hungry,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065013030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh10.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0071020000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052059000.wav,normal,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh95_pitch1.wav,Sleepy,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/459c3f85-5710-4efa-bcc9-8012aa1af55e-1430034895673-1_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh30_speed1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068017030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066042030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065049030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah27_shift1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0015003002.wav,pain,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0053019000.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063042030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh72_noise1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/e37c323c-0edb-4942-be47-3cc0b2de00a1-1434392919844-1.7-f-26-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh49_pitch1.wav,burp up,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0008002002_speed1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068029030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/2e25d0a5-0b2b-44ef-8491-e445b16ea75c-1430056332640-1.7-f-26-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh47_speed1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067008030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066028030_pitch1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/06c4cfa2-7fa6-4fda-91a1-ea186a4acc64-1430029237378-1_pitch1.wav,Sleepy,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/d6cda191-4962-4308-9a36-46d5648a95ed-1431587887997-1.7-m-04-ti.wav,Sleepy,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0074038002.wav,pain,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/a40b9b8d-e4bc-457a-badf-f38bdbc0c358-1430016981469-1_speed1.wav,Uncomfortable,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0081011001_noise1.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh50_noise1.wav,Sleepy,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh38.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh31_shift1.wav,burp up,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063007030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh5_speed1.wav,Uncomfortable,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064044030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0077006001_noise1.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/24f94b49-c8bc-4ed2-b43a-80b099f12936-1430534429690-1_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh48_speed1.wav,burp up,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052293000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063016030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065024030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0041007001_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052254000.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0074037002_noise1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068024030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/3DF341FA-E90B-4335-A51A-A9B0769150CE-1436859277-1_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0079006001.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0071008000.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh86_pitch1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0046006001.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063024030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052029000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067031030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/79FF400A-97E2-4701-987D-C7C850D5523C-1430089648-1_speed1.wav,burp up,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067053030_noise1.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh56_pitch1.wav,Sleepy,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/10.wav,Uncomfortable,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052221000.wav,normal,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066007030_pitch1.wav,asphyxia,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/lower gas/Eairh25_pitch1.wav,lower gas,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/70d30513-0ec3-49e4-9976-e85785e85c2d-1431033372810-1.7-m-04-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065041030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052023000.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052148000.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh57.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067008030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0049008002_noise1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0031012001_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0001001002_pitch1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064041030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0020002002_pitch1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0012001001.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067036030_pitch1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065033030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/neh29.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065056030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067027030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/3_pitch1.wav,Uncomfortable,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/46002244-7304-45DC-BF69-B6EC2BB25009-1436902364-1.1-f-48-hu.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0066020030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0053033000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah21.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067049030_pitch1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/15_speed1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0070022000.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0079005001.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/OAh80.wav,Sleepy,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063006030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh6_pitch1.wav,burp up,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052184000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052157000.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0031015001_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0077003001.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052298000.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0053010000.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0020004002_noise1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0063036030.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0068001030_pitch1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052158000_noise1.wav,normal,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah35_noise1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah13_noise1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh1_speed1.wav,Uncomfortable,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/normal/0052135000.wav,normal,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0073011002_shift1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0075017001.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/Oah29_shift1.wav,Sleepy,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0033001001.wav,Hungry,Uncomfortable
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064011030_speed1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/Eh50_shift1.wav,burp up,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/burp up/11_noise1.wav,burp up,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0064008030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0045002002_noise1.wav,pain,burp up
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/pain/0007005002_pitch1.wav,pain,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0065001030_shift1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Hungry/0031008001_noise1.wav,Hungry,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/asphyxia/0067011030_noise1.wav,asphyxia,Hungry
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Sleepy/14_shift1.wav,Sleepy,Sleepy
+/content/infant-cry-care/infant-cry-dataset/partitioned-data/val/Uncomfortable/Heh37.wav,Uncomfortable,Sleepy
